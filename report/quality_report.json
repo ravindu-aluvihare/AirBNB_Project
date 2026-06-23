@@ -1,0 +1,20 @@
+{
+    "city": "amsterdam",
+    "timestamp": "2026-06-23T14:57:13.934370",
+    "total_rows": 10480,
+    "total_columns": 79,
+    "columns_quality": {
+        "id": {
+            "null_values": 0,
+            "unique_values": 10480
+        },
+        "price": {
+            "null_values": 4606,
+            "unique_values": 663
+        },
+        "neighbourhood_cleansed": {
+            "null_values": 0,
+            "unique_values": 22
+        }
+    }
+}

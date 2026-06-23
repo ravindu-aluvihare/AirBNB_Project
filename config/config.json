@@ -1,0 +1,10 @@
+{
+    "city": "amsterdam",
+    "files": {
+        "listings": "https://data.insideairbnb.com/the-netherlands/north-holland/amsterdam/2025-09-11/data/listings.csv.gz",
+        "calendar": "https://data.insideairbnb.com/the-netherlands/north-holland/amsterdam/2025-09-11/data/calendar.csv.gz",
+        "reviews": "https://data.insideairbnb.com/the-netherlands/north-holland/amsterdam/2025-09-11/data/reviews.csv.gz"
+    },
+    "data_dir": "./data",
+    "report_dir": "./report"
+}

@@ -1,0 +1,11 @@
+{
+    "total_rows": 10480,
+    "duplicate_ids": 0,
+    "negative_prices": 0,
+    "missing_values": {
+        "id": 0,
+        "host_id": 0,
+        "price": 4606,
+        "room_type": 0
+    }
+}
