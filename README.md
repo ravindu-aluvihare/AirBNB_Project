@@ -63,7 +63,9 @@ streamlit run dashboard/app.py
 
 # Dashboard Preview
 
-![Dashboard](docs/dashboard.png)
+<img width="1545" height="2000" alt="1" src="https://github.com/user-attachments/assets/bb03aa36-861a-4fec-8883-3b8f9c6a0f9b" /><img width="1545" height="2000" alt="2" src="https://github.com/user-attachments/assets/d76cfd59-091c-4484-bb44-5523fd995d7d" />
+
+
 
 # Architecture
 
