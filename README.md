@@ -62,8 +62,9 @@ streamlit run dashboard/app.py
 
 
 # Dashboard Preview
-
-<img width="1545" height="2000" alt="1" src="https://github.com/user-attachments/assets/bb03aa36-861a-4fec-8883-3b8f9c6a0f9b" /><img width="1545" height="2000" alt="2" src="https://github.com/user-attachments/assets/d76cfd59-091c-4484-bb44-5523fd995d7d" />
+<img width="1340" height="575" alt="Screenshot 2026-06-23 165200" src="https://github.com/user-attachments/assets/d28cfbd9-c407-43b3-806d-4a89ca013959" />
+<img width="982" height="442" alt="Screenshot 2026-06-23 165237" src="https://github.com/user-attachments/assets/0249db35-0d40-47e5-9f7b-906f17e621f5" />
+<img width="958" height="481" alt="Screenshot 2026-06-23 165257" src="https://github.com/user-attachments/assets/b2184738-187e-4181-8459-04911af9ea5d" />
 
 
 
