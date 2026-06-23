@@ -74,7 +74,8 @@ python -m pytest tests/
 
 # Architecture
 
-![Architecture](docs/architecture.png)
+<img width="1360" height="1120" alt="architecture (1)" src="https://github.com/user-attachments/assets/4b4adf5b-716b-488f-8598-bfe051b508dd" />
+
 
 # Schema.png
 
