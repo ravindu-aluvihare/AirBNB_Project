@@ -48,6 +48,10 @@ python src/main.py
 
 streamlit run dashboard/app.py
 
+### 4. Run tests
+
+python -m pytest tests/
+
 ---
 
 ## Key Features
