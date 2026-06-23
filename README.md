@@ -61,3 +61,15 @@ streamlit run dashboard/app.py
 * Dockerized pipeline
 
 
+# Dashboard Preview
+
+![Dashboard](docs/dashboard.png)
+
+# Architecture
+
+![Architecture](docs/architecture.png)
+
+# Schema.png
+
+![Schema](docs/Schema.png)
+
